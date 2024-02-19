@@ -1,2 +1,2 @@
 # auto_sel
-UI automation test
+commit test
